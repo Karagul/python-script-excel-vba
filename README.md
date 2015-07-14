@@ -1,12 +1,4 @@
-testing-helloo
+project: automatically run python script in excel vba on excel open. requires python 2.7, openpyxl, and py3exe
 ==============
 
-this is not a test
-<p>woahh it's a paragraph!!!</p>
-<div>
-<ul>it's a list!
-<li> and it's not even in codeacademy!!</li>
-<li>holy smokes batman</li>
-</ul>
-</div>
-$ git clone https://github.com/fiona-manzella/Spoon-Knife.git
+
